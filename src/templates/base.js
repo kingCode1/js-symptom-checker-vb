@@ -1,6 +1,3 @@
-/**
- * Created by Tomasz Gabrysiak @ Infermedica on 03/02/2017.
- */
 
 const template = `
   <div class="card">

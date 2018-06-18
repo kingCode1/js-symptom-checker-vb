@@ -61,3 +61,4 @@ Do you have any ideas? Create [an issue](https://github.com/infermedica/js-sympt
 ## License
 
 This application is [MIT licensed](./LICENSE).
+"# js-symptom-checker-test" 

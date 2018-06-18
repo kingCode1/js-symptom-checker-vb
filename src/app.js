@@ -1,6 +1,3 @@
-/**
- * Created by Tomasz Gabrysiak @ Infermedica on 03/02/2017.
- */
 
 require('../node_modules/bootstrap/dist/css/bootstrap.min.css');
 require('../node_modules/font-awesome/css/font-awesome.min.css');
